@@ -21,7 +21,7 @@ I studied multimedia production and although it has many fields of application, 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,cs,git,github,gitlab,vscode,visualstudio,wordpress,blender,unity&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,git,github,gitlab,vscode,visualstudio,wordpress,blender,unity&perline=10"  />
 </p>
 <br>
 <!--Contact Section--> 
